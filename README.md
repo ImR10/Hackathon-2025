@@ -1,4 +1,4 @@
-Programmers: Rizwan Hoque and Daniel 
+Programmers: Rizwan Hoque and Daniel Benissan
 
 ## Inspiration
 We just wanted to create something simple for our first hackathon that allowed us to practice OOP, especially with Java. We decided to better implement a grade calculator that could also be practical for the forthcoming semesters here at UGA for determining our grades. 
